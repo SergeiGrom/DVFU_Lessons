@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0fa64bf-83da-4dd9-9964-e351c3d3f1a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DVFU.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_01/CommandArg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_03/BRRead.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_03/BRReadLines.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_03/ReadCharRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_03/ReadCharRunnerString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_03/Scan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_04/LoseAccuracy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_05/CharacterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_05/IntegerPack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_07/StaticImport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/tasks/task_01/t01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/tasks/task_02/t02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_01/CommandArg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_03/BRRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_03/BRReadLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_03/ReadCharRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_03/ReadCharRunnerString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_03/Scan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_04/LoseAccuracy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_05/BigNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_05/CharacterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_05/IntegerPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_07/StaticImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/tasks/task_01/t01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/tasks/task_02/t02.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="240k8AsdvjhTWSS15ho7WqmXozr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.CharacterTest">
+    <configuration name="BRReadLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.dvfu.mrcpk.examples.example_03.BRReadLines" />
+      <module name="DVFU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.dvfu.mrcpk.examples.example_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.dvfu.mrcpk.examples.example_05.CharacterTest" />
+      <module name="DVFU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.dvfu.mrcpk.examples.example_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.dvfu.mrcpk.examples.example_05.IntegerPack" />
+      <module name="DVFU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.dvfu.mrcpk.examples.example_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoseAccuracy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.dvfu.mrcpk.examples.example_04.LoseAccuracy" />
+      <module name="DVFU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.dvfu.mrcpk.examples.example_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.dvfu.mrcpk.examples.example_03.Scan" />
+      <module name="DVFU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.dvfu.mrcpk.examples.example_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BRReadLines" />
+      <item itemvalue="Application.Scan" />
+      <item itemvalue="Application.LoseAccuracy" />
+      <item itemvalue="Application.IntegerPack" />
+      <item itemvalue="Application.CharacterTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CharacterTest" />
+        <item itemvalue="Application.IntegerPack" />
+        <item itemvalue="Application.LoseAccuracy" />
+        <item itemvalue="Application.Scan" />
+        <item itemvalue="Application.BRReadLines" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0fa64bf-83da-4dd9-9964-e351c3d3f1a3" name="Changes" comment="" />
+      <created>1642774731879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642774731879</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
