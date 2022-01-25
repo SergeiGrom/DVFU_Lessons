@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0fa64bf-83da-4dd9-9964-e351c3d3f1a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DVFU.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_01/CommandArg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_03/BRRead.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_03/BRReadLines.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_03/ReadCharRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_03/ReadCharRunnerString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_03/Scan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_04/LoseAccuracy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_05/CharacterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_05/IntegerPack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/examples/example_07/StaticImport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/tasks/task_01/t01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DVFU/ru/dvfu/mrcpk/tasks/task_02/t02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_01/CommandArg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_03/BRRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_03/BRReadLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_03/ReadCharRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_03/ReadCharRunnerString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_03/Scan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_04/LoseAccuracy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_05/BigNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_05/CharacterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_05/IntegerPack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/examples/example_07/StaticImport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/tasks/task_01/t01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/dvfu/mrcpk/tasks/task_02/t02.java" afterDir="false" />
-    </list>
+    <list default="true" id="d0fa64bf-83da-4dd9-9964-e351c3d3f1a3" name="Changes" comment="first step" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,6 +175,14 @@
       <option name="presentableId" value="Default" />
       <updated>1642774731879</updated>
     </task>
+    <task id="LOCAL-00001" summary="first step">
+      <created>1643103447376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643103447376</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,5 +195,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first step" />
+    <option name="LAST_COMMIT_MESSAGE" value="first step" />
   </component>
 </project>
